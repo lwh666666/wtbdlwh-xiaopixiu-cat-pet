@@ -5,7 +5,7 @@
 
 ---
 
-## 功能一览
+## ✨ 功能一览
 
 - **透明窗口** - 无边框、无背景，只有猫咪浮在桌面上
 - **始终置顶** - 不会被其他窗口挡住。连全屏程序也不会覆盖
@@ -19,7 +19,7 @@
 
 ---
 
-## 快速开始
+## 🚀 快速开始
 
 ### 方式一：克隆源码运行（开发者）
 
@@ -45,7 +45,7 @@ npm run build
 
 ---
 
-## 使用说明
+## 🎮 使用说明
 
 | 操作 | 效果 |
 |------|------|
@@ -58,7 +58,7 @@ npm run build
 
 ---
 
-## MIT
+## 📄 MIT
 
 MIT License
 
@@ -67,7 +67,7 @@ Copyright (c) 2026 lwh666666
 Permission is hereby granted, free of charge...
 ---
 
-## 如果 start.bat 无法运行
+## 🛠️ 如果 start.bat 无法运行
 
 ### 手动创建 start.bat
 
@@ -92,3 +92,4 @@ npx electron .
 ### 便携版 (release/小皮休)
 
 便携版不需要 start.bat，直接双击 小皮休.exe 即可运行。
+
