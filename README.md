@@ -4,9 +4,15 @@
 > 基于 Electron 开发，从真实猫咪视频逐帧提取 + AI 抠图制作动画精灵图。
 
 <p align="center">
-  <img src="https://a1.boltp.com/2026/06/28/6a40c1052eba0.gif" alt="小皮休桌宠效果展示" width="480">
+  <img src="images/cat_animation.gif" alt="小皮休桌宠效果展示" width="480">
   <br>
-  <em>小皮休桌宠效果展示</em>
+  <em>小皮休桌宠效果展示（动图）</em>
+</p>
+
+<p align="center">
+  <img src="images/frame_0143.png" alt="小皮休桌宠效果截图" width="480">
+  <br>
+  <em>小皮休桌宠效果截图</em>
 </p>
 
 ---
