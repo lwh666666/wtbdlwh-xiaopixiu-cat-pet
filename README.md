@@ -9,12 +9,6 @@
   <em>小皮休桌宠效果展示（动图）</em>
 </p>
 
-<p align="center">
-  <img src="images/frame_0143.png" alt="小皮休桌宠效果截图" width="480">
-  <br>
-  <em>小皮休桌宠效果截图</em>
-</p>
-
 ---
 
 ## ✨ 功能一览
