@@ -1,4 +1,4 @@
-﻿# 小皮休桌宠 (Cat Pet)
+# 小皮休桌宠 (Cat Pet)
 
 > **透明背景、始终置顶的桌面宠物 —— 猫头 360 度跟随鼠标转动**  
 > 基于 Electron 开发，从真实猫咪视频逐帧提取 + AI 抠图制作动画精灵图。
@@ -64,15 +64,6 @@ npm run build
 
 ---
 
-## 📄 MIT
-
-MIT License
-
-Copyright (c) 2026 lwh666666
-
-Permission is hereby granted, free of charge...
----
-
 ## 🛠️ 如果 start.bat 无法运行
 
 ### 手动创建 start.bat
@@ -110,3 +101,12 @@ npx electron .
 
 欢迎反馈问题、提出建议或交流学习。
 
+---
+
+## 📄 MIT
+
+MIT License
+
+Copyright (c) 2026 lwh666666
+
+Permission is hereby granted, free of charge...
